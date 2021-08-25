@@ -1,0 +1,4 @@
+# Ignore useless stuff
+slock
+*.o
+patches/
