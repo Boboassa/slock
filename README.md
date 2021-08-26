@@ -27,6 +27,9 @@ Simply invoke the `slock` command. To get out of it, enter your password.
 Patches are a way of adding functionality to the minimal standard build of slock
 
 - Colormessage
+- Foreground or Background combining:
+    - Blur pixelated screen
+    - dwm logo
 
 ## Configuration
 
@@ -35,5 +38,5 @@ and (re)compiling the source code.
 
 ## Acknowledgments
 
-Visit [suckless.org](https://tools.suckless.org/slock/) for more information on slock
-and other suckless programs.
+Visit [suckless.org](https://tools.suckless.org/slock/) for more information on
+slock and other suckless programs.
